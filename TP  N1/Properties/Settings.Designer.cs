@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TP__N1.Properties
+namespace TP__N1_Ejercicio_01.Properties
 {
 
 
